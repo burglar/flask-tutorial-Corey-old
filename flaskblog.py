@@ -17,6 +17,13 @@ posts = [
         'content': 'Second post content',
         'date_posted': 'April 21, 2018'
     }
+    },
+    {
+        'author': 'Emanuel Mage',
+        'title': 'Blog Post sobre commit para git',
+        'content': 'Este post é para testar o commit pelo vscode',
+        'date_posted': 'January 24, 2020'
+    }
 ]
 
 

@@ -16,7 +16,6 @@ posts = [
         'title': 'Blog Post 2',
         'content': 'Second post content',
         'date_posted': 'April 21, 2018'
-    }
     },
     {
         'author': 'Emanuel Mage',

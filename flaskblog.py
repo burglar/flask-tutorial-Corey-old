@@ -22,6 +22,12 @@ posts = [
         'title': 'Blog Post sobre commit para git',
         'content': 'Este post é para testar o commit pelo vscode',
         'date_posted': 'January 24, 2020'
+    },
+    {
+        'author': 'Emanuel Mage',
+        'title': 'Blog Post sobre commit para git',
+        'content': 'Outro post para testar outra ferramenta de git. Neste caso Source Tree',
+        'date_posted': 'Feb 21, 2020'
     }
 ]
 
